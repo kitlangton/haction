@@ -1,0 +1,3 @@
+setEventDetails newUser oldUser cool
+deleteEventDetails someThing oldUser cool lol
+killEvent mamaBear
